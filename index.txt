@@ -4,5 +4,6 @@
 	</head>
 	<body>
 		<h1>DODGERS SUCK</h1>
+		<img src=“http://i.imgur.com/3m3U11g.gif”>
 	</body>
 </html>
